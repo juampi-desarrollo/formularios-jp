@@ -3,5 +3,7 @@
 <html>
 <body>
 <p> Cambio realizado por otra persona</p>
+<br>
+<p>se agregó ésta información </p>
 </body>
 </html>
